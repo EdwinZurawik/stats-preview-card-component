@@ -1,2 +1,2 @@
-# -home-edwin-dev-frontendmentorstats-preview-card-component
+# stats-preview-card-component
 Frontend Mentor - Stats preview card component challenge
